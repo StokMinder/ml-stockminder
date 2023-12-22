@@ -14,4 +14,8 @@ With Requirements:
 - numpy == 1.24.3
 
 <h1> How to Run Code</h1>
--Clone or download the models and dataset
+-Download code for the models and dataset
+-Open the model on your local environment or online like Google Colab 
+-Load the datasets
+-Run the code
+-Good Luck
