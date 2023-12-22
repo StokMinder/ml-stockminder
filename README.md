@@ -12,3 +12,6 @@ With Requirements:
 - python == 3.9.7
 - andas == 1.3.4
 - numpy == 1.24.3
+
+<h1> How to Run Code</h1>
+-Clone or download the models and dataset
